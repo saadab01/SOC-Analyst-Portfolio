@@ -1,0 +1,13 @@
+# Original local evidence must not be made public
+**/evidence/
+**/screenshots/
+**/*.evtx
+**/*.etl
+**/*.csv
+**/*.log
+*.bak
+Thumbs.db
+.DS_Store
+
+# Local installer backups
+.local-backups/
